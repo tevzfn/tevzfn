@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tevzfn
 - 👀 I'm interested in computer graphics
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 📫 How to reach me twójstary@gmail.com
 
 <!---
